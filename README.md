@@ -14,8 +14,8 @@ Create interactive dashboards for business decision-makers.
 ✅ Tech Stack Used:
 Power BI Desktop – for dashboarding and data visualization
 Python (Pandas) – for data cleaning and preprocessing
-Jupyter Notebook / VS Code – for initial EDA and transformation
-PostgreSQL (optional) – for structured data storage
+Jupyter Notebook, VS Code – for initial EDA and transformation
+PostgreSQL– for structured data storage
 
 ✅ Outcome / Impact:
 Built a fully interactive dashboard helping business stakeholders identify satisfaction trends.
